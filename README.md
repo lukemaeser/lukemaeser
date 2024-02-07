@@ -3,7 +3,7 @@
 **`Game Designer`** 
 <details>
  <summary><h3>🗨️ About Me</h3></summary>
-   With a Masters in Game Design from Lindenwood University, I priortize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life. All my projects are built from the ground up, from design to development.
+   With a Masters in Game Design from Lindenwood University, I priortize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life.
 </details>
 
 ## 🌐 Links:
