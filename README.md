@@ -2,7 +2,7 @@
 
 **`Game Designer`** 
 <h3>🗨️ About Me</h3>
-   With a Masters in Game Design from Lindenwood University, I prioritize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life.
+   With a Masters in Game Design, I prioritize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life.
 
 ## 🌐 Links:
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-%23D2AC00.svg?&style=for-the-badge&logo=paintbrush&logoColor=white)](https://www.lukemaeser.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukemaeser/)
