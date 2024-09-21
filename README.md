@@ -5,7 +5,7 @@
    With a Masters in Game Design, I prioritize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life.
 
 ## 🌐 Links:
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-%BE9620.svg?&style=for-the-badge&logo=paintbrush&logoColor=white)](https://www.lukemaeser.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukemaeser/)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-%23BE9620.svg?&style=for-the-badge&logo=paintbrush&logoColor=white)](https://www.lukemaeser.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukemaeser/)
 
 <details>
  <summary><h3>💾 Featured Repositories</h3></summary>
