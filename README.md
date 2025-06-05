@@ -1,8 +1,13 @@
 # 🕹️Luke Maeser
 
-**`Game Designer`** 
+**`Technical Designer`** 
 <h3>🗨️ About Me</h3>
-   With a Masters in Game Design, I prioritize psychological impact through interactive narrative, problem-solving opportunities, and exposure to challenges in life.
+   👋 Hi!
+
+   🎮 Technical Designer specializing in gameplay systems, AI scripting, and player mechanics  
+   🧠 Passionate about bridging design and code to craft immersive, responsive experiences  
+   🛠️ Working with Unity (C#) and Unreal Engine (Blueprint & C++)  
+   📌 Creator of MAZE3 Studios | Portfolio: [lukemaeser.com](https://lukemaeser.com)
 
 ## 🌐 Links:
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-%23BE9620.svg?&style=for-the-badge&logo=paintbrush&logoColor=white)](https://www.lukemaeser.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukemaeser/)
