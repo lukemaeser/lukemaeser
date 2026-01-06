@@ -7,8 +7,6 @@
 
 Hi! I’m a Technical Designer who loves building immersive, player-driven systems. I specialize in gameplay mechanics, AI behavior, and level interactions using Unity (C#) and Unreal Engine (Blueprint & C++). With a Master's in Game Design and hands-on experience across multiple engines, I enjoy bridging design and code to create mechanics that feel great to play.
 
-🎓 MA in Game Design  
-🛠️ Creator of MAZE3 Studios  
 🖥️ [lukemaeser.com](https://www.lukemaeser.com)
 
 ---
